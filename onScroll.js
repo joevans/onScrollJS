@@ -1,4 +1,3 @@
-<script type="text/javascript">
 jQuery(function($){
 	$(document).scroll(function(){
 		/* examples of scroll function
@@ -28,5 +27,3 @@ jQuery(function($){
 		}
 	}
 });
-
-</script>
